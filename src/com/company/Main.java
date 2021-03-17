@@ -18,6 +18,9 @@ public class Main {
         double z1 = Math.sqrt(x1 + y1);//印出x1+y1開根號，格式需用double
         System.out.println(z1);
 
+
+        //
+
         double z2 = Math.abs(y1);//印出y1絕對值
         System.out.println(z2);
     }
